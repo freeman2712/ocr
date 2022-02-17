@@ -1,2 +1,2 @@
 # ocr
-An OCR project made using tesseract and openCV. 
+An OCR project made using tensorflow and openCV. 
