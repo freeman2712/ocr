@@ -1,2 +1,6 @@
 ./test.py         #File for testing temporary python scripts
 ./test
+__pycache__
+tempCodeRunnerFile.py
+*.png
+*.jpg
